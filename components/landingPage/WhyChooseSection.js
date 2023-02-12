@@ -19,10 +19,10 @@ const WhyChooseSection = () => {
         </h3>
     </AnimatedElement>
     <AnimatedElement className='w-full h-full relative xl:px-16 '>
-    <div class="flex flex-col">
-        <div class="overflow-x-auto sm:-mx-6 lg:-mx-8">
-        <div class="py-2 inline-block min-w-full sm:px-6 lg:px-8">
-          <div class="overflow-hidden rounded-lg">
+    <div className="flex flex-col">
+        <div className="overflow-x-auto sm:-mx-6 lg:-mx-8">
+        <div className="py-2 inline-block min-w-full sm:px-6 lg:px-8">
+          <div className="overflow-hidden rounded-lg">
             <Table/>
           </div>
           </div>
