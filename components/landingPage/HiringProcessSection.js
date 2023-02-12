@@ -28,7 +28,7 @@ const HiringProcessSection = () => {
                             Network of only the <span className='text-[#3c65fe]'>Top 1%</span> of software engineers.
                         </h4>
                         <p className='leading-normal lg:text-base my-6'>
-                            With Remotebase, you won't have to worry about how to find the best tech talent that is a 
+                            With Remotebase, you won&apos;t have to worry about how to find the best tech talent that is a 
                             perfect fit for your company. From helping onboard engineers to regular performance 
                             reviews, we ensure that our clients have a flawless experience every step of the way.
                         </p>
